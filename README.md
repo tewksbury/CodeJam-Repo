@@ -7,3 +7,11 @@ Repo for CodeJam Demo
 4) Push
 5) Pull Request
 6) Pull and Repeat
+
+# Useful commands
+git log
+git status
+git show
+git diff
+git cherry-pick
+git rerere
